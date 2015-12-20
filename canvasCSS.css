@@ -1,0 +1,48 @@
+body {
+	background-color:#000;
+	background-image:url(images/metalTileDark.jpg);
+}
+
+/**fonts style----------------------------------*/
+
+h1{
+	color:#65c8c6;
+}
+
+a {
+color:	#BF2E1A;
+}
+
+header{
+	margin-left:5%;
+}
+
+nav{
+	margin-left:5%;
+}
+
+#canvasWrapper{
+	background-color:#888;
+	height:auto;
+	margin-left:5%;
+	width:auto;
+}
+
+
+#canvasContent{
+	background-color:666;
+	border:3px solid #000;
+	height:auto;
+	padding:3px;
+	width:auto;
+}
+canvas{
+	background-color:#F1F1F2;
+	border:3px solid #000;
+	
+}
+
+
+/*--------------------------------------------------*/
+
+
