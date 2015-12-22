@@ -24,7 +24,7 @@ body {
 h1 {
 	color: #65c8c6;
 	font-family: 'Jura', sans-serif;
-	font-size: 2.5em;
+	font-size: 1.95em;
 	font-weight: 600;
 	margin-left: 5%;
 }
@@ -37,6 +37,7 @@ h2 {
 	margin-bottom: 5px;
 	margin-top: -28px;
 	margin-left: 5%;
+	letter-spacing:0.03em;
 }
 
 header {
@@ -46,7 +47,6 @@ header {
 	height: auto;
 	margin-left: 0;
 	margin-right: 0;
-	opacity: 1.0;
 	vertical-align: bottom;
 	width:100%;
 	
@@ -62,7 +62,7 @@ hgroup{
 	margin-bottom: 10px;
 	margin-right: 0;
 	width: 100%;
-	height: 30px;
+	height: auto;
 }
 
  nav ul {
@@ -79,7 +79,7 @@ hgroup{
 	display: inline;
 	float: left;
 	width: auto;
-	height: auto;
+	height: 25px;
 	margin-right: 10px;
 	text-align: center;
 }
